@@ -15,11 +15,11 @@ This is a simple Flask API for finding cafes. Users can get details of cafes, su
 
 1. **Clone the repository.**
     ```
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/leandroManjate/Cafe-Management-and-Localization-System-with-Flask-and-SQLAlchemy.git
     ```
 2. **Navigate to the project directory.**
     ```
-    cd yourrepository
+    cd Cafe-Management-and-Localization-System-with-Flask-and-SQLAlchemy
     ```
 3. **Install required packages.**
     ```bash
@@ -34,7 +34,7 @@ This is a simple Flask API for finding cafes. Users can get details of cafes, su
 
 1. **Run the application.**
     ```bash
-    python app.py
+    python main.py
     ```
 2. **Open a web browser and go to `http://127.0.0.1:5000/` to see the homepage.**
 
